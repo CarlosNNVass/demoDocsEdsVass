@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/1/folders/1mJccjFOZG6eCiLGRYCiffoSgetTVE8Jp
+  /:
+    url: "https://author-p124261-e1654820.adobeaemcloud.com/bin/franklin.delivery/CarlosNNVass/demoDocsEdsVass/main"
+    type: "markup"
+    suffix: ".html"
